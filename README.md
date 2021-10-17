@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-This repository contains the files and notebooks for the Portfolio task for * *COMP6200 Introduction to Data Science* * in S2 2021. It consists of three single portfolios, each handling different data and objectives. All notebooks are run with Python 3.6.
+This repository contains the files and notebooks for the Portfolio task for *COMP6200 Introduction to Data Science* in S2 2021. It consists of three single portfolios, each handling different data and objectives. All notebooks are run with Python 3.6.
 
 # Portfolio 1: Analysis of Cycling Data
 > Portfolio 1 analyses four files containing data about cycling activities that include GPS location data as well as some measurements related to cycling performance like heart rate and power. The objective was to perform data exploration and analysis. The data represents four races. Two are time trials where the rider rides alone on a set course. Two are road races where the rider rides with a peleton. All were held on the same course but the road races include two laps where the time trials include just one.
