@@ -1,8 +1,8 @@
 # Data Science Portfolio
 
-This repository contains the files for the Portfolio task for COMP2200/6200 in S2 2021. It consists of three single portfolios, each handling different data and objectives. All notebooks are run with Python 3.6.
+This repository contains the files and notebooks for the Portfolio task for * *COMP6200 Introduction to Data Science* * in S2 2021. It consists of three single portfolios, each handling different data and objectives. All notebooks are run with Python 3.6.
 
-# [Portfolio 1: Analysis of Cycling Data](Portfolio 1.ipynb)
+# Portfolio 1: Analysis of Cycling Data
 > Portfolio 1 analyses four files containing data about cycling activities that include GPS location data as well as some measurements related to cycling performance like heart rate and power. The objective was to perform data exploration and analysis. The data represents four races. Two are time trials where the rider rides alone on a set course. Two are road races where the rider rides with a peleton. All were held on the same course but the road races include two laps where the time trials include just one.
 
 ## Getting started
@@ -35,7 +35,7 @@ Task four has been enhanced by providing a visualisation of speed distribution f
 Development distribution for each race is shown in histograms which lets the reader get a feeling which gear the rider used most often during the race since a lower gear usage would result in a lower development.
 
 
-# [Portfolio 2: Analysis of Sport Voucher Data](Portfolio 2.ipynb)
+# Portfolio 2: Analysis of Sport Voucher Data
 > Portfolio 2 explores data from the Australian Federal Government Sport Vouchers program for South Australia and Queensland where the government provides vouchers for children to do sports in clubs. The objective was to provide information about voucher usage in different Local Government Areas (LGA) and across different sports. Also, socio-economic data is used to to analyse whether different socio-economic conditions across LGAs impact voucher usage in any way.
 
 ## Getting started
@@ -69,7 +69,7 @@ The fourth part looks at the relationship between socio-economic measures like e
 In the last part, the same analysis is conducted for Queensland. Sports popularity is shown and also a comparison to South Australia. The analysis for socio-economic relationship has revealed different results than for South Australia. Namely, the voucher usage is higher for LGAs that have lower socio-economic scores.
 
 
-# [Portfolio 3: Predicting Customer Churn](Portfolio 3.ipynb)
+# Portfolio 3: Predicting Customer Churn
 > Portfolio 3 explores data from a mobile provider in Australia for customer churn. Churn is where a customer leaves the mobile provider. The goal is to build a predictive model to predict churn from available features.
 
 ## Getting started
